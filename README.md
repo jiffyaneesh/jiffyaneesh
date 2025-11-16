@@ -4,8 +4,6 @@
 
 - 🌱 Currently learning **ML** and **React Native**
 
-- 👨‍💻 Take a look at my projects at [https://aneesh-dev.netlify.app](https://aneesh-dev.netlify.app)
-
 - 💬 Proficient in **Fullstack Web Development**
 
 - 📫 Send a mail at **aneeshsharma1024@gmail.com**
