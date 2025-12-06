@@ -20,7 +20,7 @@ Web & mobile developer based in India — turning coffee into clean code for the
 ## My Skills
 <div>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aneeshsharma72067&show_icons=true&theme=dark)](https://github.com/aneeshsharma72067/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshsharma72067&layout=compact)
 </div>
 
