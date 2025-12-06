@@ -17,13 +17,6 @@ Web & mobile developer based in India — turning coffee into clean code for the
 <a href="https://www.leetcode.com/aneesh1024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aneesh1024" height="30" width="40" /></a>
 </p>
 
-## My Skills
-<div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshsharma72067&layout=compact)
-</div>
-
 <h3 align="left">Tools I mostly work with:</h3>
 <p align="center">
   <a href="https://aneesh-dev.netlify.app">
