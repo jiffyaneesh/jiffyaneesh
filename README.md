@@ -1,14 +1,13 @@
-<h1 align="center">Yo , I'm Aneesh 🙋‍♂️ </h1>
-<h3 align="center">Crafting web wonders from the land of spices (and code) for over a year! 🇮🇳</h3>
+<h1 align="center">Hi, I’m Aneesh 👋</h1>
+<h3 align="center">
+Web & mobile developer based in India — turning coffee into clean code for the past year ☕💻
+</h3>
 <h2></h2>
 
-- 🌱 Currently learning **ML** and **React Native**
-
-- 💬 Proficient in **Fullstack Web Development**
-
-- 📫 Send a mail at **aneeshsharma1024@gmail.com**
-
-- ⚡ Fun fact **I am a manga reader 📖 and a math geek 🤓**
+- 🌱 Currently diving deep into the **Aggregation Pipeline**
+- 💬 Comfortable building **Full-stack Web & Mobile applications** end-to-end
+- 📫 Reach me at **aneeshsharma1024@gmail.com**
+- ⚡ Fun fact: I balance bugs by reading manga 📖 and solving math problems for fun 🤓
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,20 +23,17 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=aneeshsharma72067&show_icons=true&theme=dark)](https://github.com/aneeshsharma72067/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshsharma72067&layout=compact)
 </div>
-<h3 align="left">Tools I mostly play with:</h3>
 
-
+<h3 align="left">Tools I mostly work with:</h3>
 <p align="center">
   <a href="https://aneesh-dev.netlify.app">
     <img src="https://skillicons.dev/icons?i=js,html,css,ts,react,vue,nextjs,nodejs,express,tailwind,python,flask,mongodb,npm,git,github,vite,vscode,firebase" />
   </a>
 </p>
 
-<h3 align="left">Tools I sometimes play with:</h3>
+<h3 align="left">Tools I explore occasionally:</h3>
 <p align="center"> 
   <a href="https://aneesh-dev.netlify.app">
     <img src="https://skillicons.dev/icons?i=django,c,cpp,php,vim,neovim,java,postman,mysql,prisma" />
   </a>
 </p>
-
-
