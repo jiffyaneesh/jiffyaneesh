@@ -5,8 +5,8 @@ $ cat about.yaml
 name:                "Aneesh"
 title:               "Full-stack & Mobile Developer"
 location:            "India 🇮🇳"
-currently_grinding:  "MongoDB Aggregation Pipeline"
-stack:               ["React", "Next.js", "Node", "Vue", "MongoDB", "Firebase"]
+currently_grinding:  "RAG Pipelines"
+stack:               ["Next.js", "Node.js", "PostgreSQL", "GCP", "Python"]
 after_hours:         ["manga 📖", "math problems 🤓", "debugging at 2am 🌙"]
 contact:             "aneeshsharma1024@gmail.com"
 portfolio:           "https://aneesh-dev.netlify.app"
