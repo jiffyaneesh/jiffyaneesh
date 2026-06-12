@@ -3,7 +3,7 @@
 $ cat about.yaml
 
 name:                "Aneesh"
-title:               "Full-stack & Mobile Developer"
+title:               "Software & Product Enginneer"
 location:            "India 🇮🇳"
 currently_grinding:  "RAG Pipelines"
 stack:               ["Next.js", "Node.js", "PostgreSQL", "GCP", "Python"]
