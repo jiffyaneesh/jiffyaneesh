@@ -23,7 +23,7 @@ I build things that work.
 </p>
 
 <p align="center">
-  <a href="https://aneesh-dev.netlify.app"><img src="https://img.shields.io/badge/portfolio-aneesh--dev.netlify.app-3fb950?style=flat-square&logo=netlify&logoColor=white" /></a>
+  <a href="https://aneesh-sharma.me"><img src="https://img.shields.io/badge/portfolio-aneesh--sharma.me-3fb950?style=flat-square&logo=netlify&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=aneeshsharma72067&label=profile+views&color=3fb950&style=flat-square" />
   <img src="https://img.shields.io/badge/based%20in-India%20🇮🇳-orange?style=flat-square" />
 </p>
