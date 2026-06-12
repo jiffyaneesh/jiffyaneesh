@@ -12,7 +12,7 @@ contact:             "aneeshsharma1024@gmail.com"
 portfolio:           "https://aneesh-dev.netlify.app"
 
 $ uptime
-→ coding since ~1yr · 0 days without shipping something
+→ coding since ~3yr · 0 days without shipping something
 
 $ echo "I build things that work."
 I build things that work.
