@@ -19,7 +19,7 @@ I build things that work.
 ```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=3FB950&center=true&vCenter=true&width=620&lines=full-stack+web+%26+mobile+developer;react+%7C+next.js+%7C+node+%7C+vue+%7C+mongodb;currently+wrangling+aggregation+pipelines;bugs+by+day+%E2%80%94+manga+%26+math+by+night;building+from+idea+to+deployment,+end-to-end" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=3FB950&center=true&vCenter=true&width=620&lines=full-stack+web+%26+mobile+developer;next.js+%7C+node.js+%7C+postgresql+%7C+AWS;currently+wrangling+aggregation+pipelines;bugs+by+day+%E2%80%94+manga+%26+math+by+night;building+from+idea+to+deployment,+end-to-end" alt="typing" />
 </p>
 
 <p align="center">
