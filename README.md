@@ -7,7 +7,7 @@ title:               "Software & Product Enginneer"
 location:            "India 🇮🇳"
 currently_grinding:  "RAG Pipelines"
 stack:               ["Next.js", "Node.js", "PostgreSQL", "GCP", "Python"]
-after_hours:         ["manga 📖", "math problems 🤓", "debugging at 2am 🌙"]
+after_hours:         ["manhwa", "math problems", "chess"]
 contact:             "aneeshsharma1024@gmail.com"
 portfolio:           "https://aneesh-dev.netlify.app"
 
