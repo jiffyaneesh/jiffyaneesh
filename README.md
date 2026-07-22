@@ -24,7 +24,7 @@ I build things that work.
 
 <p align="center">
   <a href="https://aneesh-sharma.me"><img src="https://img.shields.io/badge/portfolio-aneesh--sharma.me-3fb950?style=flat-square&logo=netlify&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=aneeshsharma72067&label=profile+views&color=3fb950&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=jiffyaneesh&label=profile+views&color=3fb950&style=flat-square" />
   <img src="https://img.shields.io/badge/based%20in-India%20🇮🇳-orange?style=flat-square" />
 </p>
 
@@ -33,12 +33,12 @@ I build things that work.
 ## ⚡ stats
 
 <p align="center">
-  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=aneeshsharma72067&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" /> -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneeshsharma72067&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=jiffyaneesh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" /> -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiffyaneesh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aneeshsharma72067&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=3FB950&ring=3FB950&currStreakLabel=3FB950" />
+  <img src="https://streak-stats.demolab.com?user=jiffyaneesh&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=3FB950&ring=3FB950&currStreakLabel=3FB950" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ I build things that work.
 ## 📈 activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aneeshsharma72067&theme=github-compact&hide_border=true&area=true&color=3fb950&line=3fb950&point=58a6ff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiffyaneesh&theme=github-compact&hide_border=true&area=true&color=3fb950&line=3fb950&point=58a6ff" />
 </p>
 
 ---
@@ -90,5 +90,5 @@ TOOLBOX          Django · C · C++ · PHP · Java · MySQL · Prisma · Vim · 
 ---
 
 <p align="center">
-  <code>aneeshsharma72067@github</code> — made with ❤️ + too much coffee ☕
+  <code>jiffyaneesh@github</code> — made with ❤️ + too much coffee ☕
 </p>
