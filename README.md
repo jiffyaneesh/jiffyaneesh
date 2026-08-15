@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header" width="100%" />
-
 <div align="center">
 
 <br/>
@@ -35,5 +33,3 @@ After hours: manhwa, math problems, chess.
 <br/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" width="100%" />
