@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Aneesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=68&desc=Software%20%26%20Product%20Engineer&descAlignY=86&descSize=18" width="100%" />
+<img src="https://raw.githubusercontent.com/jiffyaneesh/jiffyaneesh/main/header.svg" width="100%" />
 
 <div align="center">
 
@@ -33,5 +33,3 @@ After hours: manhwa · math problems · chess
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiffyaneesh&theme=github-compact&hide_border=true&area=true&color=3fb950&line=3fb950&point=58a6ff&bg_color=0d1117" width="96%" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" />

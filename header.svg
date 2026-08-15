@@ -1,0 +1,61 @@
+<svg width="1200" height="160" viewBox="0 0 1200 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0d1117"/>
+      <stop offset="50%"  stop-color="#161b27"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="wave1grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#238636" stop-opacity="0.7"/>
+      <stop offset="50%"  stop-color="#2ea043" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#238636" stop-opacity="0.7"/>
+    </linearGradient>
+    <linearGradient id="wave2grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#1a7f37" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#2ea043" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="1200" height="160" fill="url(#bg)"/>
+
+  <!-- top accent line -->
+  <rect width="1200" height="2" fill="#238636" opacity="0.6"/>
+
+  <!-- wave layer 2 — slow background wave -->
+  <path fill="url(#wave2grad)">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="
+        M0,105 C300,85 600,125 900,105 C1050,95 1150,115 1200,105 L1200,160 L0,160 Z;
+        M0,115 C300,135 600,95  900,115 C1050,125 1150,105 1200,115 L1200,160 L0,160 Z;
+        M0,105 C300,85 600,125 900,105 C1050,95 1150,115 1200,105 L1200,160 L0,160 Z
+      "/>
+  </path>
+
+  <!-- wave layer 1 — fast foreground wave -->
+  <path fill="url(#wave1grad)">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+        M0,122 C200,105 400,142 600,122 C800,102 1000,142 1200,122 L1200,160 L0,160 Z;
+        M0,132 C200,150 400,112 600,132 C800,152 1000,112 1200,132 L1200,160 L0,160 Z;
+        M0,122 C200,105 400,142 600,122 C800,102 1000,142 1200,122 L1200,160 L0,160 Z
+      "/>
+  </path>
+
+  <!-- name + subtitle with fade-in -->
+  <g>
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/>
+
+    <text x="600" y="70" text-anchor="middle"
+          font-family="'Segoe UI', system-ui, -apple-system, sans-serif"
+          font-size="50" font-weight="700" fill="#ffffff" letter-spacing="2">
+      Aneesh
+    </text>
+
+    <text x="600" y="102" text-anchor="middle"
+          font-family="'Segoe UI', system-ui, -apple-system, sans-serif"
+          font-size="15" font-weight="400" fill="#8b949e" letter-spacing="4">
+      SOFTWARE &amp; PRODUCT ENGINEER
+    </text>
+  </g>
+</svg>
