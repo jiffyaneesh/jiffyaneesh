@@ -26,7 +26,7 @@ Outside work: manhwa, math problems, and chess.
 
 **Stats**
 
-![Aneesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiffyaneesh&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+[![Aneesh's GitHub stats](https://ghstats.dev/api/card?username=jiffyaneesh&theme=github_dark)](https://ghstats.dev)
 
 ---
 
